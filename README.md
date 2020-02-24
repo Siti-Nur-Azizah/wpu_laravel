@@ -1,6 +1,7 @@
-#Wpu-Laravel
+#Aspirasi
+tentang memasukan data siswa
 
-aplikasi ini berfungsi untuk siswa melaporkan keluh kesah yang bersangkutan dengan sekolah.
+
 
 # cara menjalankan aplikasi ini
 -Buka gogle crome
